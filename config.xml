@@ -21,7 +21,6 @@
     <preference name="android-installLocation" value="auto" />
 	<preference name="deployment-target" value="7.0" />
 	<preference name="phonegap-version" value="cli-5.2.0" />
-    <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="cordova-plugin-phonertc" source="npm" spec="~2.0" />
 	<gap:plugin name="cordova-plugin-media-capture" source="npm" />
 	<gap:plugin name="cordova-plugin-console" source="npm" />
